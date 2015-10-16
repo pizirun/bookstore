@@ -2,4 +2,5 @@ bookstore
 =========
 
 A complete example for Spring MVC + Maven + Hibernate CRUD operation
-# bookstore
+
+http://shrestha-manoj.blogspot.com/2014/05/spring-mvc-maven-hibernate-crud-example.html
